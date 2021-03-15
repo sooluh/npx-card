@@ -1,6 +1,6 @@
 {
     "name": "suluh",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A personal card for Suluh Sulistiawan (@sooluh)",
     "main": "src/card.js",
     "scripts": {
