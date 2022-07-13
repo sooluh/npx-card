@@ -1,7 +1,7 @@
 {
   "package": "suluh",
-  "full_name": "Suluh Sulistiawan",
-  "profession": "Backend Developer",
+  "fullname": "Suluh Sulistiawan",
+  "profession": "Software Engineer",
   "company": "PST",
   "email": "touch@suluh.my.id",
   "socials": {
@@ -16,5 +16,6 @@
     "my inbox is always open. Whether you have a",
     "question or just want to say hi, I will try",
     "my best to get back to you!"
-  ]
+  ],
+  "biolink": "https://s.id/suluh"
 }

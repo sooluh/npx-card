@@ -1,7 +1,7 @@
 {
   "name": "suluh",
-  "version": "1.0.2",
-  "description": "A personal card for Suluh Sulistiawan (@sooluh)",
+  "version": "1.0.3",
+  "description": "A personal card for Suluh S (@sooluh)",
   "main": "src/card.js",
   "scripts": {
     "test": "node ./src/card.js",
@@ -23,8 +23,8 @@
     "business card"
   ],
   "author": {
-    "name": "Suluh Sulistiawan",
-    "email": "touch@suluh.my.id",
+    "name": "Suluh S",
+    "email": "suluhs@aol.com",
     "url": "https://suluh.my.id/"
   },
   "license": "UNLICENSED",
